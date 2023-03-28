@@ -1,0 +1,769 @@
+price_in_rs,os,display_in_inch,rating,no_of_ratings,no_of_reviews,laptop,processor_manufacturer,processor_generation,number_of_cores,ram_in_gb,storage_type,primary_storage_size
+62990,windows 11 operating system,15.6,4.5,14.0,1.0,lenovo,intel,11,11,16,ssd,512.0
+37500,64 bit windows 11 operating system,15.6,4.4,53.0,3.0,lenovo,intel,11,11,8,hdd ssd,1000.0
+49990,windows 11 operating system,15.6,4.4,4733.0,463.0,asus,intel,10,10,8,ssd,512.0
+33990,64 bit windows 11 operating system,15.6,4.3,10406.0,1040.0,asus,intel,10,10,8,ssd,512.0
+18990,dos operating system,14.0,3.8,18.0,3.0,lenovo,amd,1,1,4,ssd,256.0
+86990,mac os operating system,13.3,4.7,8865.0,795.0,apple,apple,1,1,8,ssd,256.0
+23990,64 bit windows 11 operating system,14.0,4.1,790.0,95.0,asus,intel,1,1,4,ssd,256.0
+36890,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,amd,1,1,8,ssd,256.0
+33999,64 bit windows 11 operating system,15.6,4.0,112.0,8.0,lenovo,intel,11,11,8,ssd,512.0
+38990,windows 11 operating system,15.6,4.1,3955.0,462.0,redmibook,intel,11,11,8,ssd,512.0
+26990,64 bit windows 11 operating system,15.6,4.2,381.0,76.0,acer,amd,1,1,8,ssd,256.0
+66990,64 bit windows 11 operating system,14.0,5.0,4.0,0.0,asus,intel,12,12,16,ssd,512.0
+37990,64 bit windows 11 operating system,15.6,4.1,257.0,26.0,asus,intel,11,11,8,ssd,512.0
+56990,windows 11 operating system,15.6,4.1,137.0,18.0,asus,intel,11,11,16,ssd,512.0
+39990,windows 11 operating system,15.6,4.1,143.0,11.0,dell,intel,11,11,8,hdd ssd,1000.0
+46990,64 bit windows 10 operating system,14.0,4.4,12584.0,1870.0,realme,intel,11,11,8,ssd,256.0
+37990,64 bit windows 11 operating system,14.0,4.2,1779.0,160.0,hp,intel,11,11,8,ssd,256.0
+49123,64 bit windows 11 operating system,15.6,4.3,328.0,34.0,hp,amd,1,1,16,ssd,512.0
+47990,64 bit windows 11 operating system,15.6,4.4,2239.0,299.0,msi,amd,1,1,8,ssd,512.0
+86500,64 bit windows 11 operating system,14.0,4.4,9.0,0.0,asus,intel,12,12,16,ssd,512.0
+44990,64 bit windows 11 operating system,15.6,4.2,93.0,17.0,hp,intel,12,12,8,ssd,512.0
+52990,64 bit windows 11 operating system,15.6,4.3,68.0,7.0,hp,intel,11,11,8,ssd,512.0
+38990,64 bit windows 11 operating system,15.6,4.2,1911.0,208.0,hp,amd,1,1,8,ssd,512.0
+33890,64 bit windows 11 operating system,14.0,4.2,870.0,66.0,lenovo,intel,11,11,8,ssd,256.0
+33990,windows 11 operating system,14.0,4.4,19.0,0.0,asus,intel,10,10,8,ssd,512.0
+26990,64 bit windows 11 operating system,14.0,4.0,754.0,79.0,hp,amd,1,1,8,ssd,256.0
+38500,64 bit windows 11 operating system,15.6,4.3,453.0,38.0,lenovo,intel,11,11,8,ssd,512.0
+45909,64 bit windows 11 operating system,14.0,4.2,1979.0,202.0,hp,amd,1,1,8,ssd,512.0
+49990,64 bit windows 11 operating system,15.6,4.4,1233.0,149.0,asus,amd,1,1,8,hdd ssd,1000.0
+40950,64 bit windows 11 operating system,15.6,4.3,388.0,40.0,hp,intel,11,11,8,ssd,512.0
+52890,windows 11 operating system,15.6,4.5,14.0,1.0,lenovo,intel,11,11,16,ssd,512.0
+99990,64 bit windows 11 operating system,15.6,4.4,127.0,16.0,asus,amd,1,1,16,ssd,512.0
+59990,64 bit windows 11 operating system,15.6,4.5,870.0,105.0,asus,amd,1,1,16,ssd,512.0
+58018,64 bit windows 11 operating system,15.6,4.2,2011.0,167.0,hp,intel,12,12,8,ssd,512.0
+38699,64 bit windows 11 operating system,15.6,4.3,4658.0,449.0,lenovo,intel,11,11,8,ssd,512.0
+53990,64 bit windows 11 operating system,14.0,4.2,128.0,21.0,hp,amd,1,1,8,ssd,512.0
+64990,64 bit windows 11 operating system,14.0,4.5,325.0,52.0,acer,intel,12,12,8,ssd,512.0
+52990,64 bit windows 11 operating system,15.6,4.2,280.0,21.0,lenovo,intel,11,11,8,ssd,512.0
+109990,64 bit windows 11 operating system,17.3,4.3,59.0,11.0,asus,intel,12,12,16,ssd,1000.0
+68114,64 bit windows 11 operating system,14.0,4.4,301.0,22.0,hp,intel,12,12,16,ssd,512.0
+56049,64 bit windows 11 operating system,15.6,4.2,247.0,21.0,lenovo,intel,12,12,8,ssd,512.0
+25990,64 bit windows 11 operating system,14.0,4.1,233.0,32.0,asus,intel,1,1,4,ssd,256.0
+33990,64 bit windows 11 operating system,15.6,4.2,741.0,84.0,acer,intel,11,11,8,ssd,512.0
+38990,32 bit windows 11 operating system,14.0,4.2,431.0,39.0,asus,amd,1,1,8,ssd,512.0
+47039,64 bit windows 11 operating system,15.6,4.3,1603.0,184.0,lenovo,amd,1,1,8,ssd,512.0
+67990,64 bit windows 11 operating system,15.6,4.5,28.0,0.0,dell,intel,12,12,16,ssd,512.0
+40990,64 bit windows 11 operating system,14.0,4.3,389.0,44.0,asus,intel,11,11,8,ssd,512.0
+49990,64 bit windows 11 operating system,15.6,4.2,206.0,20.0,asus,intel,11,11,8,ssd,512.0
+131990,mac os operating system,13.6,-1.0,-1.0,-1.0,apple,apple,2,2,8,ssd,512.0
+159990,windows 11 operating system,14.0,4.7,6.0,2.0,asus,intel,12,12,32,ssd,1000.0
+74990,64 bit windows 11 operating system,15.6,4.5,413.0,63.0,msi,amd,1,1,8,ssd,512.0
+61990,64 bit windows 11 operating system,15.6,4.4,1087.0,131.0,asus,amd,1,1,16,ssd,512.0
+74990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,11,11,8,ssd,512.0
+46990,64 bit windows 11 operating system,14.0,5.0,7.0,2.0,asus,intel,12,12,8,ssd,512.0
+57990,windows 11 operating system,15.6,3.8,25.0,2.0,dell,intel,12,12,8,hdd ssd,1000.0
+51990,64 bit windows 11 operating system,15.6,4.4,5533.0,674.0,acer,amd,1,1,8,ssd,512.0
+89990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,1000.0
+64990,64 bit windows 11 operating system,15.6,4.3,652.0,85.0,asus,intel,11,11,16,hdd ssd,1000.0
+64990,64 bit windows 11 operating system,15.6,4.5,327.0,51.0,hp,amd,1,1,8,ssd,512.0
+35990,windows 11 operating system,15.6,4.3,107.0,11.0,asus,intel,10,10,8,ssd,512.0
+38290,64 bit windows 11 operating system,14.0,3.9,37.0,1.0,lenovo,intel,11,11,8,ssd,512.0
+399990,windows 11 operating system,17.0,-1.0,-1.0,-1.0,msi,intel,13,13,32,ssd,2000.0
+17990,chrome operating system,15.6,3.7,1671.0,226.0,asus,intel,1,1,4,ssd,2000.0
+15990,chrome operating system,11.6,4.0,1853.0,287.0,asus,intel,1,1,4,ssd,2000.0
+42990,64 bit windows 11 operating system,14.0,3.6,5.0,0.0,asus,intel,12,12,8,ssd,512.0
+138990,windows 11 operating system,17.3,-1.0,-1.0,-1.0,msi,intel,13,13,16,ssd,1000.0
+54990,64 bit windows 11 operating system,16.0,4.9,7.0,0.0,asus,amd,1,1,16,ssd,512.0
+30990,64 bit windows 11 operating system,14.0,4.3,4379.0,580.0,infinix,intel,10,10,8,ssd,256.0
+50990,64 bit windows 10 operating system,14.0,4.0,57.0,10.0,lenovo,amd,1,1,8,ssd,512.0
+79990,64 bit windows 11 operating system,14.0,4.8,19.0,1.0,asus,intel,11,11,16,ssd,512.0
+22900,64 bit windows 11 operating system,14.0,4.1,694.0,67.0,acer,amd,1,1,4,ssd,256.0
+33751,64 bit windows 11 operating system,15.6,4.2,778.0,78.0,lenovo,amd,1,1,8,ssd,512.0
+116250,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,lenovo,amd,1,1,16,ssd,512.0
+50990,64 bit windows 11 operating system,15.6,4.5,23.0,5.0,asus,intel,12,12,8,ssd,512.0
+45990,64 bit windows 11 operating system,15.6,4.2,564.0,55.0,asus,intel,10,10,8,ssd,512.0
+90400,windows 11 operating system,17.3,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+91990,windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+62499,64 bit windows 11 operating system,14.0,4.3,142.0,11.0,hp,intel,12,12,8,ssd,512.0
+76999,windows 11 operating system,15.6,4.5,97.0,10.0,asus,intel,12,12,8,ssd,512.0
+51990,windows 11 operating system,15.6,4.3,146.0,14.0,asus,intel,11,11,8,ssd,512.0
+32990,64 bit windows 11 operating system,15.6,4.0,947.0,100.0,hp,amd,1,1,8,ssd,512.0
+45990,64 bit windows 11 operating system,15.6,4.5,624.0,90.0,asus,intel,11,11,8,ssd,512.0
+88499,64 bit windows 11 operating system,16.1,5.0,3.0,1.0,hp,intel,11,11,16,ssd,1000.0
+65990,64 bit windows 11 operating system,15.6,4.5,715.0,112.0,asus,amd,1,1,16,ssd,512.0
+85990,64 bit windows 11 operating system,15.6,4.7,62.0,17.0,msi,intel,12,12,16,ssd,512.0
+104990,windows 11 operating system,13.3,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+139990,mac os operating system,13.6,4.3,32.0,1.0,apple,apple,2,2,8,ssd,512.0
+113490,mac os operating system,13.6,4.8,45.0,5.0,apple,apple,2,2,8,ssd,256.0
+113990,mac os operating system,13.6,4.7,50.0,3.0,apple,apple,2,2,8,ssd,256.0
+74990,64 bit windows 11 operating system,14.0,4.5,1266.0,172.0,asus,intel,12,12,16,ssd,512.0
+89990,64 bit windows 11 operating system,15.6,4.5,174.0,22.0,asus,amd,1,1,16,ssd,512.0
+41990,64 bit windows 11 operating system,14.0,4.2,3572.0,327.0,hp,intel,11,11,8,ssd,512.0
+63990,64 bit windows 11 operating system,14.0,4.6,25.0,1.0,asus,intel,11,11,8,ssd,512.0
+86990,windows 11 operating system,13.4,4.7,6.0,1.0,hp,intel,12,12,16,ssd,512.0
+61990,64 bit windows 11 operating system,14.0,5.0,3.0,1.0,hp,amd,1,1,16,ssd,512.0
+88990,64 bit windows 11 operating system,17.3,4.7,13.0,1.0,asus,amd,1,1,16,ssd,512.0
+249990,windows 11 operating system,17.3,-1.0,-1.0,-1.0,msi,intel,13,13,32,ssd,1000.0
+129990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+294990,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,msi,intel,12,12,32,ssd,2000.0
+76990,64 bit windows 11 operating system,15.6,4.5,374.0,46.0,lenovo,amd,1,1,8,ssd,512.0
+104990,mac os operating system,13.3,4.7,719.0,83.0,apple,apple,1,1,16,ssd,256.0
+78990,64 bit windows 11 operating system,15.6,4.4,41.0,3.0,lenovo,intel,11,11,16,ssd,512.0
+63990,64 bit windows 11 operating system,15.6,4.1,187.0,16.0,dell,intel,11,11,8,ssd,512.0
+107990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,intel,12,12,16,ssd,512.0
+68990,64 bit windows 11 operating system,15.6,4.6,11.0,1.0,asus,intel,12,12,16,ssd,512.0
+57990,64 bit windows 11 operating system,15.6,4.3,3065.0,354.0,acer,intel,12,12,8,ssd,512.0
+95990,64 bit windows 11 operating system,15.6,4.5,136.0,16.0,asus,intel,12,12,16,ssd,1000.0
+105990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,msi,intel,12,12,16,ssd,512.0
+82990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+59990,64 bit windows 10 operating system,14.0,4.4,7200.0,967.0,realme,intel,11,11,8,ssd,512.0
+61400,64 bit windows 11 operating system,14.0,4.2,1346.0,124.0,hp,intel,12,12,16,ssd,512.0
+37990,64 bit windows 11 operating system,14.0,4.2,713.0,103.0,infinix,intel,10,10,8,ssd,512.0
+77070,64 bit windows 11 operating system,14.0,4.4,27.0,3.0,hp,intel,12,12,16,ssd,512.0
+56990,windows 11 operating system,14.0,4.3,18.0,1.0,asus,intel,12,12,8,ssd,512.0
+56990,64 bit windows 11 operating system,15.6,4.4,5533.0,674.0,acer,amd,1,1,16,ssd,512.0
+42490,windows 11 operating system,15.6,4.2,440.0,40.0,dell,intel,11,11,8,hdd ssd,1000.0
+95990,64 bit windows 10 operating system,15.6,4.5,473.0,71.0,acer,intel,11,11,16,hdd ssd,1000.0
+44290,64 bit windows 11 operating system,15.6,3.1,15.0,3.0,dell,intel,11,11,8,ssd,512.0
+63550,64 bit windows 11 operating system,14.0,4.4,218.0,19.0,hp,amd,1,1,16,ssd,512.0
+119990,64 bit windows 11 operating system,15.6,4.4,29.0,8.0,msi,intel,12,12,16,ssd,1000.0
+129990,mac os operating system,13.3,4.7,719.0,83.0,apple,apple,1,1,16,ssd,512.0
+161990,64 bit windows 11 operating system,15.6,3.8,5.0,1.0,asus,amd,1,1,16,ssd,1000.0
+47990,64 bit windows 11 operating system,15.6,4.5,6.0,1.0,infinix,intel,11,11,16,ssd,512.0
+73990,64 bit windows 10 operating system,15.6,4.5,52.0,9.0,dell,amd,1,1,16,ssd,512.0
+307990,mac os operating system,16.2,4.3,13.0,5.0,apple,apple,1,1,32,ssd,1000.0
+45990,windows 11 operating system,15.6,3.9,16.0,0.0,asus,intel,12,12,8,ssd,512.0
+27990,64 bit windows 11 operating system,15.6,4.0,108.0,11.0,lenovo,intel,1,1,8,ssd,256.0
+62050,64 bit windows 10 operating system,15.6,4.4,2547.0,319.0,msi,intel,11,11,8,ssd,512.0
+52990,64 bit windows 11 operating system,15.6,4.3,26.0,6.0,infinix,intel,11,11,16,ssd,512.0
+58490,windows 11 operating system,15.6,-1.0,-1.0,-1.0,msi,intel,12,12,16,ssd,512.0
+56990,windows 11 operating system,14.0,4.5,18.0,1.0,asus,intel,12,12,8,ssd,512.0
+41190,64 bit windows 11 operating system,15.6,4.3,78.0,3.0,dell,amd,1,1,8,ssd,512.0
+57990,64 bit windows 11 operating system,15.6,3.9,30.0,2.0,dell,intel,12,12,8,ssd,512.0
+85990,64 bit windows 11 operating system,15.6,4.3,61.0,7.0,hp,intel,12,12,8,ssd,512.0
+55990,windows 11 operating system,15.6,4.3,2648.0,228.0,lenovo,intel,11,11,8,ssd,512.0
+44990,64 bit windows 11 operating system,14.0,4.4,144.0,13.0,asus,intel,11,11,8,ssd,256.0
+32000,64 bit windows 11 operating system,15.6,4.1,329.0,32.0,dell,intel,1,1,8,ssd,256.0
+89990,windows 11 operating system,14.0,4.0,24.0,5.0,asus,intel,12,12,16,ssd,512.0
+88900,64 bit windows 11 operating system,15.6,4.0,24.0,2.0,hp,intel,12,12,16,ssd,1000.0
+41990,64 bit windows 11 operating system,15.6,4.3,348.0,47.0,asus,intel,11,11,8,ssd,512.0
+89990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,lenovo,amd,1,1,16,ssd,512.0
+44490,64 bit windows 10 operating system,14.0,4.3,222.0,28.0,asus,intel,11,11,8,ssd,512.0
+47990,64 bit windows 11 operating system,15.6,4.6,8.0,0.0,lenovo,amd,1,1,8,ssd,512.0
+72990,windows 11 operating system,15.6,4.2,6.0,0.0,samsung,intel,12,12,16,ssd,512.0
+65990,64 bit windows 11 operating system,15.6,4.5,121.0,7.0,asus,intel,10,10,8,ssd,1000.0
+56990,64 bit windows 11 operating system,15.6,4.5,758.0,80.0,asus,amd,1,1,16,ssd,512.0
+34690,32 bit windows 11 operating system,14.0,4.0,66.0,2.0,hp,intel,11,11,8,ssd,512.0
+213894,mac os operating system,14.2,4.8,119.0,14.0,apple,apple,1,1,16,ssd,1000.0
+35990,64 bit windows 11 operating system,15.6,4.1,193.0,17.0,asus,intel,10,10,8,ssd,512.0
+50499,64 bit windows 11 operating system,14.0,4.2,225.0,18.0,hp,amd,1,1,16,ssd,512.0
+170990,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,msi,intel,12,12,16,ssd,1000.0
+40990,64 bit windows 11 operating system,15.6,4.0,168.0,8.0,acer,intel,11,11,8,ssd,512.0
+78190,64 bit windows 11 operating system,13.3,4.5,8.0,0.0,dell,intel,12,12,16,ssd,512.0
+43490,64 bit windows 11 operating system,15.6,4.4,9.0,1.0,dell,amd,1,1,8,ssd,512.0
+49990,64 bit windows 11 operating system,15.6,4.2,157.0,16.0,asus,intel,11,11,8,ssd,512.0
+199900,mac os operating system,14.0,-1.0,-1.0,-1.0,apple,apple,2,2,16,ssd,512.0
+99990,64 bit windows 11 operating system,15.6,5.0,3.0,0.0,dell,amd,1,1,16,ssd,512.0
+36990,64 bit windows 11 operating system,14.0,3.8,5.0,1.0,dell,amd,1,1,8,ssd,256.0
+224990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,1,1,32,ssd,2000.0
+56990,64 bit windows 11 operating system,15.6,4.5,758.0,80.0,asus,amd,1,1,16,ssd,512.0
+121990,mac os operating system,13.3,4.7,22.0,1.0,apple,apple,2,2,8,ssd,256.0
+87990,64 bit windows 11 operating system,15.6,4.5,1224.0,158.0,asus,amd,1,1,8,ssd,512.0
+42900,64 bit windows 11 operating system,15.6,4.2,673.0,76.0,lenovo,amd,1,1,8,ssd,512.0
+88490,64 bit windows 11 operating system,15.6,5.0,7.0,1.0,dell,amd,1,1,16,ssd,512.0
+46990,64 bit windows 11 operating system,14.0,4.2,12.0,2.0,asus,intel,12,12,8,ssd,512.0
+89990,64 bit windows 11 operating system,15.6,4.4,80.0,12.0,asus,intel,12,12,16,ssd,512.0
+140990,64 bit windows 11 operating system,15.6,4.0,5.0,0.0,msi,intel,12,12,16,ssd,1000.0
+106490,mac os operating system,13.3,4.7,719.0,83.0,apple,apple,1,1,16,ssd,256.0
+25990,64 bit chrome operating system,14.0,4.2,24.0,4.0,hp,intel,1,1,4,ssd,256.0
+79990,64 bit windows 11 operating system,15.6,4.1,35.0,5.0,dell,intel,12,12,8,ssd,512.0
+89990,windows 11 operating system,13.3,-1.0,-1.0,-1.0,dell,intel,12,12,16,ssd,512.0
+72990,64 bit windows 11 operating system,15.6,4.1,187.0,16.0,dell,intel,11,11,16,ssd,512.0
+76519,64 bit windows 11 operating system,14.0,4.5,4.0,1.0,dell,intel,12,12,8,ssd,512.0
+34990,windows 11 operating system,15.6,4.4,405.0,48.0,asus,amd,1,1,8,ssd,512.0
+38029,64 bit windows 11 operating system,15.6,4.2,435.0,56.0,dell,amd,1,1,8,ssd,256.0
+104990,mac os operating system,13.3,4.7,8865.0,795.0,apple,apple,1,1,8,ssd,512.0
+25990,64 bit chrome operating system,14.0,4.2,24.0,4.0,hp,intel,1,1,4,ssd,512.0
+23990,64 bit windows 10 operating system,15.6,3.7,3191.0,410.0,asus,intel,1,1,4,hdd,1000.0
+31990,64 bit windows 11 operating system,15.6,4.4,385.0,34.0,acer,intel,11,11,8,ssd,256.0
+49890,64 bit windows 11 operating system,15.6,4.2,17.0,3.0,dell,intel,11,11,16,ssd,512.0
+74990,64 bit windows 11 operating system,14.0,4.2,10.0,1.0,asus,intel,12,12,8,ssd,512.0
+60290,64 bit windows 11 operating system,15.6,4.3,43.0,4.0,dell,intel,11,11,8,ssd,512.0
+126990,mac os operating system,13.3,4.7,719.0,83.0,apple,apple,1,1,16,ssd,512.0
+60990,64 bit windows 11 operating system,15.6,4.5,5145.0,564.0,asus,intel,10,10,8,ssd,512.0
+155490,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,1000.0
+64990,64 bit windows 11 operating system,15.6,4.4,395.0,43.0,lenovo,intel,11,11,8,hdd ssd,1000.0
+41490,64 bit windows 11 operating system,14.0,4.4,43.0,3.0,dell,amd,1,1,8,ssd,512.0
+77990,windows 11 operating system,15.6,4.5,97.0,10.0,asus,intel,12,12,16,ssd,512.0
+94500,64 bit windows 11 operating system,15.6,4.4,41.0,6.0,asus,intel,12,12,16,ssd,512.0
+154990,windows 10 operating system,15.6,4.6,265.0,56.0,asus,amd,1,1,16,ssd,1000.0
+168990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,12,12,16,ssd,512.0
+63890,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,512.0
+74990,64 bit windows 11 operating system,15.6,4.0,90.0,11.0,hp,intel,12,12,16,ssd,512.0
+65990,64 bit windows 11 operating system,15.6,4.5,258.0,29.0,asus,amd,1,1,8,ssd,1000.0
+114990,mac os operating system,13.3,4.7,784.0,87.0,apple,apple,1,1,8,ssd,256.0
+63990,windows 11 operating system,15.6,4.5,313.0,31.0,acer,amd,1,1,16,ssd,512.0
+80990,64 bit windows 11 operating system,15.6,4.6,21.0,3.0,msi,intel,12,12,16,ssd,512.0
+97990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,1000.0
+39490,64 bit windows 11 operating system,15.6,4.4,80.0,11.0,hp,intel,11,11,8,ssd,256.0
+281990,64 bit windows 11 operating system,15.6,5.0,4.0,0.0,asus,intel,12,12,32,ssd,1000.0
+31561,windows 11 operating system,14.0,3.9,13.0,0.0,lenovo,intel,10,10,4,ssd,256.0
+48990,64 bit windows 11 operating system,14.0,3.7,13.0,3.0,asus,intel,10,10,16,ssd,512.0
+36990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,11,11,8,ssd,256.0
+66190,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,512.0
+54990,64 bit windows 10 operating system,15.6,4.2,15492.0,2054.0,hp,amd,1,1,8,hdd,1000.0
+243990,mac os operating system,16.2,4.8,119.0,14.0,apple,apple,1,1,16,ssd,1000.0
+41890,64 bit windows 11 operating system,15.6,4.2,26.0,2.0,dell,amd,1,1,8,ssd,512.0
+104990,64 bit windows 11 operating system,13.3,-1.0,-1.0,-1.0,asus,intel,11,11,16,ssd,512.0
+42990,64 bit windows 11 operating system,15.6,4.4,1443.0,248.0,asus,intel,11,11,8,ssd,256.0
+104990,64 bit windows 11 operating system,15.6,4.6,14.0,1.0,msi,intel,12,12,16,ssd,512.0
+86490,64 bit windows 10 operating system,15.6,4.5,148.0,19.0,lenovo,intel,10,10,16,ssd,512.0
+129990,64 bit windows 11 operating system,15.6,4.8,41.0,8.0,msi,amd,5,5,16,ssd,1000.0
+52890,windows 11 operating system,15.6,3.8,5.0,1.0,dell,intel,11,11,8,ssd,512.0
+71990,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,8,ssd,512.0
+191990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,asus,amd,1,1,32,ssd,1000.0
+146990,64 bit windows 11 operating system,15.6,5.0,6.0,0.0,asus,amd,1,1,16,ssd,1000.0
+109990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,1000.0
+77990,64 bit windows 11 operating system,16.1,4.8,4.0,0.0,hp,amd,1,1,8,ssd,512.0
+31490,64 bit windows 10 operating system,15.6,3.6,84.0,16.0,lenovo,amd,1,1,4,hdd,1000.0
+39990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,lenovo,amd,1,1,8,ssd,512.0
+61500,64 bit windows 10 operating system,14.0,4.5,29.0,6.0,acer,amd,1,1,8,ssd,512.0
+57990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,acer,intel,12,12,8,ssd,512.0
+131990,mac os operating system,13.6,-1.0,-1.0,-1.0,apple,apple,2,2,16,ssd,256.0
+90390,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,9,9,16,ssd,1000.0
+228928,64 bit windows 11 operating system,15.6,4.6,10.0,0.0,asus,intel,12,12,32,ssd,1000.0
+345390,64 bit windows 10 operating system,15.6,4.6,10.0,3.0,alienware,intel,10,10,32,ssd,1000.0
+62990,64 bit windows 10 operating system,14.0,3.8,17.0,3.0,dell,intel,10,10,8,ssd,512.0
+174990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+61690,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,512.0
+79990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,gigabyte,intel,12,12,16,ssd,512.0
+75990,windows 11 operating system,15.6,4.3,222.0,25.0,acer,amd,1,1,16,hdd ssd,1000.0
+129989,64 bit windows 11 operating system,16.0,4.7,32.0,5.0,lenovo,amd,1,1,16,ssd,1000.0
+139990,mac os operating system,13.6,5.0,8.0,2.0,apple,apple,2,2,8,ssd,512.0
+68990,64 bit windows 11 operating system,14.0,4.4,288.0,23.0,hp,intel,11,11,16,ssd,512.0
+177990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+62490,64 bit windows 11 operating system,15.6,4.1,87.0,11.0,lenovo,intel,12,12,16,ssd,512.0
+109990,mac os operating system,13.3,4.6,1149.0,126.0,apple,apple,1,1,8,ssd,512.0
+61990,64 bit windows 11 operating system,15.6,4.6,82.0,13.0,samsung,intel,12,12,8,ssd,256.0
+60990,64 bit windows 11 operating system,15.6,4.1,31.0,2.0,dell,intel,11,11,8,hdd ssd,1000.0
+70990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,8,ssd,512.0
+110000,64 bit windows 11 operating system,16.1,3.8,5.0,1.0,hp,amd,1,1,16,ssd,1000.0
+76990,64 bit windows 10 operating system,15.6,4.5,193.0,18.0,asus,amd,1,1,8,ssd,512.0
+33990,64 bit windows 11 operating system,15.6,4.2,197.0,43.0,infinix,intel,11,11,8,ssd,512.0
+299999,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,hp,intel,12,12,32,ssd,2000.0
+109990,mac os operating system,13.3,4.7,8865.0,795.0,apple,apple,1,1,8,ssd,512.0
+129990,64 bit windows 10 operating system,15.6,4.4,193.0,39.0,asus,amd,1,1,16,ssd,1000.0
+51532,windows 11 operating system,15.6,4.0,32.0,14.0,infinix,intel,12,12,16,ssd,512.0
+144100,64 bit windows 10 operating system,15.6,4.4,136.0,23.0,msi,intel,11,11,16,ssd,1000.0
+63500,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,8,ssd,512.0
+20990,64 bit windows 11 operating system,14.0,4.2,884.0,151.0,infinix,intel,1,1,4,ssd,128.0
+124990,windows 11 operating system,14.5,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,512.0
+72990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,gigabyte,intel,12,12,8,ssd,512.0
+189990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,lenovo,amd,1,1,32,ssd,1000.0
+65999,64 bit windows 11 operating system,15.6,4.6,13.0,1.0,acer,intel,11,11,8,ssd,512.0
+28500,64 bit windows 11 operating system,14.1,-1.0,-1.0,-1.0,asus,intel,1,1,8,ssd,256.0
+129990,64 bit windows 10 operating system,15.6,4.6,113.0,27.0,msi,intel,11,11,16,ssd,1000.0
+19990,dos operating system,15.6,3.7,288.0,26.0,lenovo,intel,1,1,4,hdd ssd,256.0
+67990,64 bit windows 11 operating system,15.6,4.3,496.0,41.0,hp,intel,12,12,8,ssd,512.0
+64590,64 bit windows 10 operating system,17.3,4.5,533.0,93.0,asus,amd,1,1,8,ssd,512.0
+115300,64 bit windows 10 operating system,15.6,4.4,497.0,69.0,acer,amd,1,1,16,hdd ssd,1000.0
+61990,64 bit windows 11 operating system,15.6,4.3,3065.0,354.0,acer,intel,12,12,16,ssd,512.0
+26490,64 bit windows 11 operating system,14.0,4.2,19.0,2.0,acer,intel,1,1,4,ssd,256.0
+114990,64 bit windows 10 operating system,15.6,4.5,153.0,25.0,msi,intel,11,11,16,ssd,1000.0
+114990,64 bit windows 11 operating system,17.3,3.9,12.0,0.0,asus,intel,12,12,16,ssd,1000.0
+59990,64 bit windows 11 operating system,16.0,4.7,7.0,2.0,dell,amd,1,1,8,ssd,512.0
+63590,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,dell,amd,1,1,16,ssd,512.0
+199999,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,hp,intel,12,12,32,ssd,1000.0
+300490,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,dell,intel,12,12,32,ssd,1000.0
+72990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,amd,1,1,8,ssd,512.0
+46040,64 bit windows 10 operating system,14.0,4.1,68.0,6.0,acer,intel,11,11,8,hdd ssd,1000.0
+55990,windows 11 operating system,15.6,4.6,10.0,1.0,asus,amd,5,5,8,ssd,512.0
+24999,64 bit windows 11 operating system,14.0,3.7,65.0,7.0,hp,intel,1,1,8,ssd,256.0
+76990,64 bit windows 11 operating system,17.3,4.5,17.0,4.0,asus,amd,1,1,8,ssd,1000.0
+71590,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,dell,amd,1,1,16,ssd,512.0
+59999,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,amd,1,1,8,ssd,512.0
+323990,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,dell,intel,11,11,32,ssd,1000.0
+40390,64 bit windows 11 operating system,14.0,4.3,2025.0,257.0,hp,amd,1,1,8,ssd,512.0
+61990,64 bit windows 11 operating system,15.6,4.5,99.0,13.0,hp,amd,1,1,8,ssd,512.0
+68400,64 bit windows 11 operating system,15.6,4.0,5.0,1.0,lenovo,intel,12,12,16,ssd,512.0
+88990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,512.0
+159990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,lenovo,amd,1,1,16,ssd,1000.0
+39490,64 bit windows 11 operating system,15.6,4.0,29.0,2.0,dell,amd,1,1,8,ssd,512.0
+150990,mac os operating system,13.6,-1.0,-1.0,-1.0,apple,apple,2,2,16,ssd,512.0
+241990,mac os operating system,16.2,4.8,119.0,14.0,apple,apple,1,1,16,ssd,1000.0
+56749,windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,256.0
+247990,64 bit windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+181990,64 bit windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,1000.0
+114990,windows 11 operating system,13.3,3.8,6.0,1.0,hp,intel,12,12,16,ssd,1000.0
+146990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,amd,1,1,16,ssd,1000.0
+149990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,gigabyte,intel,12,12,16,ssd,1000.0
+52490,64 bit windows 11 operating system,15.6,4.1,23.0,4.0,dell,amd,1,1,8,ssd,512.0
+244990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,msi,intel,12,12,16,ssd,1000.0
+139990,windows 10 operating system,16.0,4.3,8.0,0.0,asus,intel,11,11,16,ssd,1000.0
+59990,64 bit windows 10 operating system,15.6,4.4,263.0,22.0,msi,intel,11,11,8,ssd,512.0
+84990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,acer,amd,1,1,8,ssd,1000.0
+70900,64 bit windows 11 operating system,14.0,4.7,3.0,0.0,lenovo,intel,11,11,16,ssd,512.0
+35699,64 bit windows 11 operating system,15.6,4.0,5.0,0.0,hp,intel,11,11,8,ssd,256.0
+84990,64 bit windows 11 operating system,14.0,3.9,45.0,9.0,asus,intel,12,12,16,ssd,512.0
+128000,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,1000.0
+43500,64 bit windows 11 operating system,15.6,3.9,93.0,10.0,dell,intel,11,11,8,ssd,512.0
+58226,windows 10 operating system,15.6,-1.0,-1.0,-1.0,lenovo,intel,11,11,16,ssd,512.0
+103490,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,16,ssd,512.0
+60990,64 bit windows 11 operating system,13.3,4.4,72.0,9.0,asus,intel,11,11,8,ssd,512.0
+150450,64 bit windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,512.0
+39990,64 bit windows 11 operating system,15.6,4.1,48.0,2.0,lenovo,intel,11,11,8,ssd,512.0
+139999,64 bit windows 11 operating system,15.6,5.0,7.0,1.0,acer,intel,11,11,16,ssd,1000.0
+156490,64 bit windows 11 operating system,15.6,5.0,4.0,0.0,acer,intel,12,12,16,ssd,1000.0
+78990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,amd,1,1,8,ssd,512.0
+16490,64 bit windows 11 operating system,14.1,3.8,689.0,92.0,avita,intel,1,1,4,ssd,128.0
+171990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+250000,64 bit windows 10 operating system,15.6,4.0,5.0,2.0,alienware,intel,10,10,16,ssd,1000.0
+151990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,12,12,16,ssd,1000.0
+57990,64 bit windows 11 operating system,15.6,3.7,10.0,0.0,dell,intel,11,11,8,ssd,512.0
+71990,64 bit windows 10 operating system,14.96,-1.0,-1.0,-1.0,dell,amd,1,1,8,ssd,512.0
+80990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,512.0
+46990,64 bit windows 11 operating system,14.0,4.2,1232.0,119.0,asus,amd,1,1,16,ssd,512.0
+73990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,8,ssd,512.0
+88990,64 bit windows 11 operating system,15.6,3.6,11.0,0.0,dell,amd,1,1,16,ssd,512.0
+145499,64 bit windows 11 operating system,16.0,3.7,3.0,0.0,hp,intel,12,12,16,ssd,512.0
+275990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,msi,intel,12,12,32,ssd,1000.0
+39990,64 bit windows 10 operating system,15.6,4.4,44.0,1.0,asus,intel,11,11,8,ssd,512.0
+58800,64 bit windows 10 operating system,13.3,4.3,6.0,3.0,hp,intel,7,7,8,ssd,256.0
+101490,64 bit windows 10 operating system,15.6,4.5,499.0,63.0,asus,intel,11,11,16,ssd,1000.0
+219894,mac os operating system,14.2,4.8,119.0,14.0,apple,apple,1,1,16,ssd,1000.0
+69990,64 bit windows 11 operating system,15.6,4.7,3.0,0.0,hp,amd,1,1,8,ssd,512.0
+41990,windows 10 operating system,15.6,3.6,25.0,4.0,dell,intel,11,11,8,hdd,1000.0
+57990,64 bit windows 10 operating system,14.0,4.3,74.0,7.0,asus,amd,1,1,8,ssd,512.0
+162990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+89990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,1000.0
+72790,64 bit windows 10 operating system,15.6,4.6,213.0,36.0,dell,amd,1,1,8,ssd,512.0
+60130,64 bit windows 10 operating system,15.6,4.1,85.0,5.0,acer,intel,11,11,8,hdd ssd,1000.0
+74990,64 bit windows 10 operating system,15.6,4.6,893.0,173.0,msi,intel,9,9,16,ssd,512.0
+157990,64 bit windows 11 operating system,15.6,4.0,4.0,0.0,asus,amd,1,1,16,ssd,1000.0
+284990,64 bit windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,amd,1,1,32,ssd,1000.0
+59490,windows 11 operating system,15.6,4.6,5.0,0.0,asus,intel,11,11,16,ssd,512.0
+58490,windows 11 operating system,15.6,4.0,3.0,2.0,dell,intel,11,11,8,ssd,512.0
+254990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+218290,windows 11 operating system,16.0,-1.0,-1.0,-1.0,lenovo,amd,1,1,16,ssd,1000.0
+29990,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,avita,intel,10,10,4,ssd,256.0
+98060,64 bit windows 11 operating system,13.3,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,1000.0
+87390,64 bit windows 10 operating system,15.6,4.3,273.0,41.0,asus,intel,10,10,8,hdd ssd,1000.0
+171990,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,1000.0
+214790,64 bit windows 10 operating system,15.6,4.1,13.0,4.0,alienware,intel,10,10,16,ssd,1000.0
+199990,64 bit windows 10 operating system,15.6,4.9,12.0,0.0,alienware,intel,10,10,16,ssd,512.0
+85490,windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+61990,64 bit chrome operating system,14.0,4.7,3.0,0.0,hp,intel,11,11,8,ssd,256.0
+249900,mac os operating system,14.0,-1.0,-1.0,-1.0,apple,apple,2,2,16,ssd,1000.0
+59990,64 bit windows 10 operating system,14.0,4.2,569.0,59.0,mi,intel,10,10,8,ssd,512.0
+204000,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,1,1,32,ssd,2000.0
+61890,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,ssd,512.0
+229990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,acer,intel,12,12,32,ssd,2000.0
+399990,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,asus,intel,12,12,32,ssd,4000.0
+74990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,8,ssd,512.0
+132765,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,1000.0
+46990,64 bit windows 10 operating system,14.0,3.7,337.0,35.0,acer,intel,11,11,8,hdd,1000.0
+174990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+42690,64 bit windows 11 operating system,14.96,4.4,171.0,18.0,dell,intel,11,11,8,ssd,256.0
+59990,64 bit windows 10 operating system,15.6,4.4,2208.0,248.0,hp,amd,1,1,8,ssd,512.0
+222990,mac os operating system,16.2,4.8,119.0,14.0,apple,apple,1,1,16,ssd,512.0
+42990,windows 11 operating system,15.6,3.8,5.0,2.0,asus,intel,12,12,8,ssd,512.0
+156090,64 bit windows 10 operating system,15.6,4.4,316.0,53.0,msi,intel,10,10,32,hdd ssd,1000.0
+69890,64 bit windows 10 operating system,15.6,4.3,333.0,29.0,dell,intel,10,10,8,ssd,512.0
+63990,64 bit windows 11 operating system,15.6,4.6,58.0,7.0,asus,amd,1,1,16,ssd,512.0
+108990,64 bit windows 11 operating system,15.6,4.0,12.0,4.0,dell,intel,12,12,16,ssd,512.0
+304980,64 bit windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,1000.0
+84790,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,amd,1,1,16,ssd,512.0
+58500,64 bit windows 10 operating system,15.6,4.4,2239.0,299.0,msi,amd,1,1,8,ssd,512.0
+33200,64 bit windows 11 operating system,15.6,4.1,264.0,31.0,acer,amd,1,1,8,ssd,512.0
+41890,64 bit windows 11 operating system,15.6,3.9,8.0,0.0,dell,amd,1,1,8,ssd,512.0
+210990,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+176490,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,intel,12,12,16,ssd,512.0
+35990,64 bit windows 11 operating system,14.0,4.2,66.0,8.0,lenovo,intel,10,10,4,ssd,256.0
+130990,64 bit windows 11 operating system,13.5,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+71990,64 bit windows 11 operating system,15.6,4.6,110.0,22.0,dell,amd,1,1,8,ssd,512.0
+105990,64 bit windows 11 operating system,15.6,4.5,90.0,18.0,asus,amd,1,1,16,ssd,1000.0
+58900,64 bit windows 10 operating system,15.6,4.1,45.0,10.0,lenovo,intel,11,11,8,ssd,512.0
+210990,64 bit windows 10 operating system,16.0,4.7,3.0,0.0,msi,intel,11,11,16,ssd,1000.0
+65990,64 bit windows 11 operating system,15.6,4.0,4.0,1.0,lenovo,amd,1,1,16,ssd,512.0
+150490,64 bit windows 10 operating system,15.6,4.7,21.0,5.0,acer,intel,10,10,16,ssd,2000.0
+42490,64 bit windows 11 operating system,14.0,4.2,50.0,4.0,dell,intel,10,10,4,hdd ssd,1000.0
+18990,64 bit chrome operating system,11.6,3.6,387.0,51.0,asus,intel,1,1,4,ssd,512.0
+78190,64 bit windows 10 operating system,13.3,4.5,22.0,3.0,dell,intel,11,11,8,ssd,1000.0
+329990,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,1000.0
+119990,64 bit windows 11 operating system,15.6,4.4,57.0,7.0,acer,intel,11,11,16,ssd,1000.0
+70430,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,ssd,512.0
+69290,dos operating system,14.0,-1.0,-1.0,-1.0,asus,intel,10,10,8,hdd,1000.0
+18990,64 bit windows 11 operating system,11.6,4.0,20.0,1.0,asus,intel,1,1,4,hdd,1000.0
+39490,64 bit windows 11 operating system,15.6,4.0,5.0,0.0,hp,intel,11,11,8,ssd,256.0
+64990,64 bit windows 11 operating system,15.6,4.3,302.0,36.0,acer,intel,12,12,8,ssd,512.0
+84990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,lenovo,intel,12,12,16,ssd,512.0
+163990,mac os operating system,13.3,4.2,107.0,13.0,apple,intel,8,8,8,ssd,512.0
+41999,64 bit windows 11 operating system,14.0,4.5,24.0,6.0,acer,intel,1,1,4,ssd,256.0
+55990,64 bit windows 10 operating system,15.6,4.4,61.0,7.0,acer,amd,1,1,8,ssd,512.0
+54890,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,hp,intel,10,10,8,hdd ssd,512.0
+114990,windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,512.0
+88890,64 bit windows 11 operating system,14.0,4.5,14.0,2.0,dell,amd,1,1,16,ssd,512.0
+54990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,10,10,16,ssd,512.0
+40690,64 bit windows 10 operating system,14.0,4.1,9.0,1.0,dell,intel,11,11,8,ssd,256.0
+24290,64 bit windows 11 operating system,11.6,4.1,197.0,18.0,asus,intel,1,1,4,ssd,128.0
+111500,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,512.0
+74990,windows 11 operating system,15.6,4.0,4.0,0.0,asus,intel,12,12,16,ssd,512.0
+54990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,10,10,16,ssd,512.0
+209990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,intel,12,12,32,ssd,1000.0
+158990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,amd,1,1,16,ssd,1000.0
+37890,windows 10 operating system,14.0,5.0,4.0,0.0,lenovo,intel,10,10,8,ssd,256.0
+92990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,512.0
+233990,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,10,10,16,ssd,2000.0
+127490,64 bit windows 11 operating system,15.6,3.8,12.0,6.0,dell,intel,12,12,16,ssd,512.0
+193990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,gigabyte,intel,12,12,16,ssd,1000.0
+129999,64 bit windows 10 operating system,15.6,4.5,3221.0,691.0,acer,intel,7,7,8,hdd ssd,1000.0
+78061,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,amd,1,1,8,ssd,512.0
+98246,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,lenovo,amd,5,5,16,ssd,512.0
+157990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+185790,64 bit windows 10 operating system,15.6,4.8,5.0,1.0,msi,intel,8,8,16,ssd,512.0
+41290,64 bit windows 10 operating system,14.96,4.2,534.0,59.0,dell,intel,11,11,8,ssd,256.0
+38690,64 bit windows 11 operating system,15.6,4.7,6.0,0.0,dell,amd,1,1,8,ssd,256.0
+71990,windows 10 operating system,15.6,4.4,395.0,43.0,lenovo,intel,11,11,8,ssd,512.0
+72490,64 bit windows 11 operating system,15.6,4.3,29.0,6.0,lenovo,intel,10,10,8,ssd,512.0
+61999,64 bit windows 11 operating system,15.6,3.7,3.0,0.0,acer,intel,12,12,8,ssd,512.0
+105990,windows 10 operating system,15.6,4.4,87.0,12.0,asus,amd,1,1,16,ssd,512.0
+206990,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,msi,intel,11,11,16,ssd,1000.0
+119990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,msi,intel,12,12,16,ssd,1000.0
+239990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,intel,12,12,32,ssd,1000.0
+62990,64 bit windows 11 operating system,15.6,4.3,43.0,7.0,lenovo,amd,1,1,8,ssd,512.0
+189990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,lenovo,amd,1,1,32,ssd,1000.0
+42690,64 bit windows 10 operating system,15.6,4.0,318.0,28.0,dell,amd,1,1,8,ssd,256.0
+73990,64 bit windows 10 operating system,15.6,4.5,256.0,45.0,msi,intel,11,11,16,ssd,512.0
+82990,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,8,ssd,512.0
+59990,windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,8,ssd,512.0
+115990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+214990,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,msi,intel,10,10,32,ssd,1000.0
+93900,64 bit windows 10 operating system,15.6,4.4,5.0,1.0,dell,amd,1,1,16,ssd,512.0
+58499,64 bit windows 10 operating system,15.6,4.5,4351.0,596.0,msi,intel,9,9,8,ssd,512.0
+50983,64 bit windows 11 operating system,15.6,4.8,10.0,0.0,hp,amd,1,1,16,ssd,512.0
+219990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,1000.0
+47090,64 bit windows 10 operating system,14.0,4.4,17.0,2.0,dell,amd,1,1,8,ssd,512.0
+66990,64 bit windows 10 operating system,13.3,4.3,40.0,4.0,asus,intel,8,8,8,ssd,512.0
+40200,64 bit windows 10 operating system,15.6,3.9,50.0,1.0,lenovo,intel,10,10,4,ssd,256.0
+47990,windows 11 operating system,14.0,4.3,39.0,9.0,asus,intel,12,12,8,ssd,512.0
+59990,64 bit windows 10 operating system,15.6,5.0,3.0,0.0,acer,amd,1,1,8,ssd,512.0
+77070,windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+51890,64 bit windows 11 operating system,15.6,4.2,283.0,17.0,hp,intel,11,11,8,ssd,512.0
+61249,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,10,10,4,hdd,1000.0
+35500,64 bit windows 11 operating system,15.6,4.1,123.0,18.0,dell,intel,1,1,4,ssd,256.0
+107690,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,512.0
+131990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,lenovo,amd,1,1,16,ssd,1000.0
+28490,windows 11 operating system,14.0,4.4,17.0,3.0,hp,amd,1,1,8,ssd,512.0
+64990,64 bit windows 11 operating system,15.6,4.0,123.0,15.0,hp,intel,12,12,8,ssd,512.0
+146490,64 bit windows 10 operating system,15.6,3.0,2.0,1.0,asus,intel,7,7,8,hdd ssd,1000.0
+60090,windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,512.0
+34990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,lenovo,amd,1,1,8,hdd ssd,256.0
+40699,windows 11 operating system,15.6,4.1,29.0,2.0,lenovo,intel,11,11,8,ssd,512.0
+71999,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,10,10,8,ssd,1000.0
+69990,64 bit windows 11 operating system,14.0,4.8,5.0,0.0,acer,intel,11,11,8,ssd,512.0
+62990,windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,intel,11,11,8,ssd,512.0
+63090,64 bit windows 10 operating system,35.0,3.9,89.0,9.0,dell,intel,11,11,8,ssd,512.0
+107990,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,1000.0
+48999,windows 10 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,10,10,4,hdd ssd,1000.0
+57890,64 bit windows 10 operating system,15.6,3.9,117.0,15.0,lenovo,intel,11,11,8,ssd,512.0
+88490,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,dell,intel,12,12,16,ssd,512.0
+99850,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,512.0
+40890,64 bit windows 10 operating system,15.6,4.0,53.0,4.0,dell,intel,11,11,8,ssd,256.0
+40690,64 bit windows 11 operating system,15.6,4.0,212.0,30.0,dell,intel,10,10,8,ssd,512.0
+170990,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,1000.0
+71857,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,ssd,512.0
+154990,64 bit windows 10 operating system,14.0,5.0,3.0,0.0,asus,intel,10,10,16,ssd,1000.0
+100500,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,acer,intel,8,8,8,ssd,512.0
+94075,windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,12,12,8,hdd ssd,1000.0
+249900,mac os operating system,16.0,-1.0,-1.0,-1.0,apple,apple,2,2,16,ssd,512.0
+79990,64 bit windows 10 operating system,13.3,4.4,11.0,3.0,asus,intel,10,10,8,ssd,512.0
+115999,windows 11 operating system,14.0,-1.0,-1.0,-1.0,acer,intel,12,12,16,ssd,1000.0
+27990,64 bit windows 11 operating system,15.6,4.2,100.0,14.0,acer,amd,1,1,4,ssd,512.0
+98990,windows 11 operating system,16.6,4.5,6.0,1.0,asus,amd,10,10,16,ssd,512.0
+42990,64 bit windows 11 operating system,15.6,4.3,47.0,11.0,infinix,intel,11,11,8,ssd,512.0
+44190,64 bit windows 11 operating system,14.96,4.3,56.0,5.0,dell,intel,10,10,8,ssd,256.0
+79990,64 bit windows 11 operating system,14.0,5.0,3.0,0.0,asus,intel,11,11,16,ssd,512.0
+96990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+42990,64 bit windows 10 operating system,14.0,4.1,105.0,10.0,dell,intel,10,10,8,ssd,512.0
+234990,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,10,10,32,ssd,1000.0
+85990,windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,512.0
+22990,chrome operating system,15.6,4.0,926.0,150.0,asus,intel,1,1,4,ssd,512.0
+107331,windows 11 operating system,14.0,4.6,43.0,9.0,asus,intel,12,12,16,ssd,512.0
+38990,64 bit windows 10 operating system,15.0,4.3,164.0,14.0,lenovo,intel,11,11,4,ssd,256.0
+37990,64 bit windows 11 operating system,15.6,4.3,3881.0,400.0,hp,amd,1,1,8,ssd,512.0
+150990,windows 11 operating system,15.6,4.9,8.0,2.0,asus,amd,1,1,16,ssd,1000.0
+76990,64 bit windows 10 operating system,15.6,4.4,145.0,21.0,lenovo,amd,1,1,8,ssd,512.0
+79000,64 bit windows 11 operating system,13.3,4.5,13.0,0.0,hp,amd,1,1,16,ssd,512.0
+84198,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,8,ssd,512.0
+42990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,amd,1,1,8,ssd,512.0
+177900,64 bit windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,amd,1,1,32,ssd,1000.0
+62490,64 bit windows 10 operating system,15.6,4.5,1763.0,254.0,lenovo,amd,1,1,8,hdd ssd,1000.0
+79990,64 bit windows 11 operating system,14.0,3.9,12.0,1.0,asus,intel,12,12,16,ssd,512.0
+151990,windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+30990,64 bit windows 11 operating system,15.6,4.2,126.0,23.0,infinix,intel,11,11,8,ssd,256.0
+147990,64 bit windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+37490,64 bit windows 11 operating system,15.6,4.3,818.0,95.0,lenovo,intel,11,11,8,ssd,256.0
+118990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,lenovo,intel,12,12,16,ssd,512.0
+39990,64 bit windows 11 operating system,14.0,4.3,2959.0,316.0,hp,intel,11,11,8,ssd,256.0
+234990,64 bit windows 10 operating system,13.4,-1.0,-1.0,-1.0,asus,amd,1,1,32,ssd,1000.0
+171990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+94990,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,acer,intel,11,11,16,ssd,512.0
+66990,64 bit windows 10 operating system,15.6,4.4,2511.0,240.0,hp,amd,1,1,8,ssd,512.0
+40788,64 bit windows 11 operating system,15.6,4.1,145.0,9.0,hp,intel,11,11,8,hdd ssd,1000.0
+42500,windows 11 operating system,15.6,4.3,7.0,0.0,dell,intel,11,11,8,hdd,1000.0
+60990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,8,ssd,1000.0
+58990,64 bit windows 11 operating system,15.6,4.4,502.0,47.0,asus,intel,10,10,8,ssd,512.0
+119990,64 bit windows 10 operating system,15.6,4.5,2052.0,318.0,acer,intel,10,10,16,hdd ssd,1000.0
+105990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,lenovo,intel,11,11,16,ssd,512.0
+184990,windows 11 operating system,17.3,-1.0,-1.0,-1.0,msi,intel,13,13,16,ssd,1000.0
+192990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,lenovo,intel,11,11,32,ssd,1000.0
+38999,64 bit windows 11 operating system,15.6,4.3,3881.0,400.0,hp,amd,1,1,8,ssd,256.0
+135990,64 bit windows 10 operating system,15.6,4.3,58.0,9.0,acer,intel,11,11,16,ssd,1000.0
+68490,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,hdd ssd,1000.0
+88390,64 bit windows 10 operating system,14.0,4.5,571.0,73.0,hp,intel,11,11,16,ssd,1000.0
+113104,64 bit windows 11 operating system,13.3,3.7,3.0,2.0,dell,intel,12,12,16,ssd,512.0
+114990,64 bit windows 11 operating system,13.4,5.0,3.0,0.0,asus,amd,1,1,16,ssd,1000.0
+56000,64 bit windows 10 operating system,15.6,4.4,12223.0,1239.0,hp,amd,1,1,8,ssd,512.0
+149990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,lenovo,intel,12,12,8,ssd,1000.0
+116640,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,acer,intel,6,6,16,hdd ssd,1000.0
+102551,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,hp,intel,7,7,8,hdd ssd,1000.0
+16990,64 bit windows 11 operating system,14.1,3.8,689.0,92.0,avita,intel,1,1,4,ssd,128.0
+44900,64 bit windows 10 operating system,14.0,4.5,872.0,177.0,hp,amd,1,1,8,ssd,512.0
+98990,64 bit windows 11 operating system,16.1,4.9,11.0,0.0,hp,amd,1,1,16,ssd,512.0
+50990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,11,11,8,ssd,512.0
+46990,64 bit windows 11 operating system,14.0,3.7,114.0,27.0,infinix,intel,10,10,16,ssd,512.0
+147990,windows 11 operating system,17.3,-1.0,-1.0,-1.0,msi,intel,13,13,16,ssd,1000.0
+45890,windows 11 operating system,15.0,-1.0,-1.0,-1.0,dell,intel,11,11,8,hdd ssd,1000.0
+60490,64 bit windows 10 operating system,15.6,4.5,191.0,20.0,lenovo,amd,1,1,8,ssd,512.0
+69990,windows 11 operating system,15.3,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,512.0
+62490,64 bit windows 10 operating system,14.0,3.9,10.0,0.0,asus,intel,10,10,8,hdd,1000.0
+20990,windows 10 operating system,14.0,4.1,14.0,1.0,lenovo,amd,1,1,4,ssd,256.0
+41990,64 bit windows 11 operating system,14.0,4.4,2836.0,401.0,asus,intel,11,11,8,ssd,512.0
+76490,64 bit windows 10 operating system,15.6,4.4,1006.0,101.0,msi,intel,11,11,8,ssd,512.0
+191990,64 bit windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,1000.0
+42890,64 bit windows 11 operating system,15.6,4.2,913.0,107.0,dell,intel,10,10,8,hdd ssd,1000.0
+49890,64 bit windows 11 operating system,15.6,3.9,125.0,13.0,dell,amd,1,1,8,ssd,512.0
+69490,64 bit windows 11 operating system,14.0,3.8,21.0,4.0,hp,intel,11,11,16,ssd,512.0
+110990,64 bit windows 11 operating system,15.6,4.4,40.0,7.0,msi,intel,12,12,16,ssd,1000.0
+62990,64 bit windows 10 operating system,15.6,4.3,740.0,70.0,lenovo,intel,10,10,8,ssd,512.0
+64490,windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,512.0
+28990,64 bit windows 10 operating system,15.6,4.0,5344.0,705.0,asus,intel,7,7,4,hdd,1000.0
+42990,64 bit windows 10 operating system,15.6,4.1,238.0,27.0,dell,intel,10,10,8,hdd,1000.0
+91958,windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,intel,12,12,16,ssd,512.0
+59990,64 bit windows 11 operating system,15.6,4.5,313.0,31.0,acer,amd,1,1,8,ssd,512.0
+209690,64 bit windows 10 operating system,15.6,5.0,4.0,0.0,asus,intel,8,8,16,ssd,1000.0
+74990,64 bit windows 10 operating system,14.0,4.0,97.0,12.0,msi,intel,10,10,16,ssd,512.0
+88570,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,intel,12,12,8,ssd,512.0
+81600,64 bit windows 11 operating system,13.3,4.3,8.0,0.0,hp,amd,1,1,16,ssd,1000.0
+122990,64 bit windows 11 operating system,15.6,4.1,32.0,3.0,asus,intel,12,12,16,ssd,1000.0
+47990,windows 11 operating system,15.6,4.5,17.0,4.0,lenovo,amd,1,1,8,ssd,512.0
+35990,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,11,11,8,ssd,256.0
+30650,64 bit windows 10 operating system,14.1,3.5,74.0,12.0,asus,intel,10,10,4,hdd,1000.0
+52575,64 bit windows 10 operating system,15.6,4.4,845.0,117.0,hp,amd,1,1,8,ssd,512.0
+37890,windows 10 operating system,15.6,5.0,1.0,1.0,lenovo,intel,10,10,4,ssd,256.0
+45990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,ssd,512.0
+39890,windows 11 operating system,15.6,3.7,6.0,0.0,hp,intel,11,11,8,ssd,512.0
+33990,64 bit windows 10 operating system,14.0,4.3,5546.0,790.0,asus,intel,7,7,4,ssd,256.0
+24490,64 bit windows 10 operating system,14.0,3.6,1857.0,268.0,avita,amd,1,1,8,ssd,256.0
+63290,64 bit windows 11 operating system,15.6,4.1,125.0,9.0,hp,intel,12,12,16,ssd,512.0
+54960,64 bit windows 10 operating system,15.6,4.4,849.0,80.0,hp,intel,11,11,8,ssd,512.0
+61200,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,lenovo,amd,1,1,16,ssd,512.0
+71490,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,dell,intel,12,12,16,ssd,512.0
+67990,64 bit windows 11 operating system,15.6,4.3,222.0,25.0,acer,amd,1,1,8,ssd,512.0
+99990,64 bit windows 10 operating system,13.3,4.3,30.0,7.0,asus,intel,8,8,16,ssd,512.0
+104405,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,1000.0
+94990,64 bit windows 11 operating system,17.3,4.4,105.0,18.0,asus,intel,12,12,16,ssd,512.0
+43390,windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,11,11,8,ssd,512.0
+99990,windows 11 operating system,13.4,-1.0,-1.0,-1.0,dell,intel,12,12,16,ssd,512.0
+160180,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,32,ssd,1000.0
+26990,64 bit windows 10 operating system,15.6,4.3,1654.0,225.0,asus,amd,1,1,4,ssd,256.0
+174990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,512.0
+41960,64 bit windows 10 operating system,15.6,4.3,545.0,68.0,hp,intel,11,11,8,ssd,512.0
+68990,windows 11 operating system,15.6,4.3,222.0,25.0,acer,amd,1,1,8,hdd ssd,1000.0
+149610,64 bit windows 11 operating system,15.6,4.8,5.0,1.0,asus,intel,12,12,16,ssd,1000.0
+63990,64 bit windows 10 operating system,15.6,4.3,652.0,85.0,asus,intel,11,11,16,hdd ssd,1000.0
+27990,64 bit windows 11 operating system,14.0,4.1,114.0,15.0,lenovo,amd,1,1,4,ssd,256.0
+68990,64 bit windows 11 operating system,15.6,4.6,8.0,3.0,gigabyte,intel,11,11,16,ssd,512.0
+60490,64 bit windows 10 operating system,15.6,4.5,912.0,122.0,lenovo,amd,1,1,8,hdd ssd,1000.0
+69351,64 bit windows 10 operating system,14.0,4.2,6.0,3.0,acer,intel,8,8,8,ssd,512.0
+261990,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,1,1,32,ssd,1000.0
+79000,64 bit windows 10 operating system,15.6,4.6,10.0,1.0,hp,intel,11,11,16,ssd,512.0
+64000,64 bit windows 11 operating system,15.6,3.9,70.0,7.0,hp,amd,1,1,8,ssd,512.0
+40699,windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,intel,11,11,8,ssd,512.0
+269990,64 bit windows 10 operating system,15.6,4.8,8.0,1.0,asus,intel,10,10,32,ssd,1000.0
+25990,64 bit windows 10 operating system,14.0,4.1,944.0,93.0,lenovo,intel,1,1,4,ssd,256.0
+50600,64 bit windows 10 operating system,15.6,4.4,210.0,30.0,hp,amd,1,1,8,ssd,512.0
+108290,64 bit windows 11 operating system,16.1,4.3,39.0,6.0,hp,amd,1,1,16,ssd,512.0
+37990,64 bit dos operating system,15.6,3.7,128.0,16.0,lenovo,intel,11,11,8,ssd,256.0
+38990,64 bit windows 11 operating system,14.1,4.3,25.0,3.0,asus,intel,11,11,8,ssd,512.0
+35960,64 bit windows 11 operating system,15.6,4.5,4.0,0.0,hp,amd,1,1,8,ssd,512.0
+80000,64 bit windows 10 operating system,15.6,4.6,35.0,6.0,hp,amd,1,1,8,hdd ssd,1000.0
+30990,64 bit windows 11 operating system,14.0,4.0,106.0,13.0,asus,intel,11,11,4,ssd,256.0
+45990,64 bit windows 11 operating system,15.6,4.4,494.0,72.0,asus,intel,11,11,8,hdd ssd,1000.0
+50890,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,amd,1,1,8,ssd,512.0
+85990,64 bit windows 10 operating system,14.0,4.2,34.0,5.0,dell,amd,1,1,16,ssd,512.0
+122560,windows 11 operating system,16.2,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,512.0
+73990,64 bit windows 10 operating system,17.3,4.8,12.0,0.0,asus,intel,10,10,8,ssd,512.0
+121677,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,512.0
+39990,windows 11 operating system,15.6,4.1,29.0,2.0,lenovo,intel,11,11,8,ssd,512.0
+63331,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,dell,amd,1,1,8,ssd,512.0
+43490,64 bit windows 10 operating system,15.6,4.0,308.0,42.0,dell,intel,11,11,8,hdd,1000.0
+25990,chrome operating system,14.0,4.1,209.0,29.0,asus,intel,1,1,4,hdd,1000.0
+136000,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,1000.0
+81990,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,8,8,8,hdd,1000.0
+119990,64 bit windows 10 operating system,14.0,4.0,1.0,1.0,acer,intel,7,7,8,ssd,256.0
+130500,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,9,9,16,ssd,1000.0
+86000,64 bit windows 10 operating system,13.3,-1.0,-1.0,-1.0,lenovo,intel,8,8,8,ssd,512.0
+79990,64 bit windows 10 operating system,13.3,3.0,2.0,1.0,asus,amd,1,1,16,ssd,1000.0
+59990,dos operating system,15.6,3.5,6.0,1.0,msi,intel,7,7,8,hdd,1000.0
+119990,windows 11 operating system,14.0,-1.0,-1.0,-1.0,lenovo,intel,12,12,16,ssd,512.0
+84990,64 bit windows 11 operating system,15.6,4.1,35.0,5.0,dell,intel,12,12,16,ssd,512.0
+189990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+74990,64 bit windows 10 operating system,13.3,3.3,3.0,1.0,lenovo,intel,8,8,8,ssd,512.0
+68690,64 bit windows 10 operating system,15.6,4.4,479.0,57.0,hp,intel,11,11,8,hdd ssd,1000.0
+92070,windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+57890,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,dell,amd,1,1,16,ssd,512.0
+180990,64 bit windows 10 operating system,17.3,4.5,27.0,6.0,msi,intel,11,11,16,ssd,1000.0
+62990,windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,8,ssd,512.0
+136590,64 bit windows 10 operating system,13.3,-1.0,-1.0,-1.0,hp,intel,8,8,8,ssd,256.0
+73070,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+88990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,11,11,16,ssd,512.0
+40250,64 bit windows 10 operating system,15.6,4.1,1147.0,119.0,hp,intel,10,10,8,hdd,1000.0
+61890,windows 11 operating system,15.6,3.5,6.0,1.0,dell,intel,11,11,8,hdd ssd,1000.0
+62180,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,intel,11,11,8,ssd,512.0
+97500,64 bit windows 10 operating system,15.6,3.7,3.0,0.0,hp,intel,10,10,16,ssd,512.0
+74490,64 bit windows 10 operating system,13.3,4.2,50.0,4.0,asus,intel,8,8,8,ssd,512.0
+167990,64 bit windows 11 operating system,13.4,-1.0,-1.0,-1.0,asus,amd,1,1,32,ssd,1000.0
+73990,64 bit windows 10 operating system,15.6,4.0,15.0,5.0,lenovo,amd,1,1,8,ssd,512.0
+104990,windows 11 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,12,12,16,ssd,512.0
+149990,64 bit windows 10 operating system,15.6,4.1,10.0,3.0,msi,intel,8,8,16,ssd,512.0
+42800,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,ssd,512.0
+85990,64 bit windows 10 operating system,17.3,4.5,1468.0,194.0,asus,amd,1,1,16,ssd,512.0
+59000,64 bit windows 10 operating system,16.1,4.2,9.0,2.0,hp,amd,1,1,8,ssd,512.0
+62779,windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,ssd,512.0
+46490,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,hdd ssd,1000.0
+129990,mac os operating system,13.3,4.5,481.0,50.0,apple,apple,1,1,8,ssd,512.0
+72990,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,hp,amd,1,1,8,ssd,512.0
+176990,windows 11 operating system,14.0,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+59990,64 bit windows 10 operating system,15.6,4.5,5145.0,564.0,asus,intel,10,10,8,ssd,512.0
+44990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,hdd ssd,1000.0
+61000,64 bit windows 11 operating system,15.6,3.8,45.0,6.0,hp,intel,12,12,8,ssd,512.0
+31490,64 bit windows 11 operating system,15.6,3.7,36.0,3.0,hp,amd,1,1,8,ssd,256.0
+99990,64 bit windows 10 operating system,15.0,3.8,9.0,0.0,microsoft,amd,1,1,8,ssd,128.0
+166990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+28960,windows 11 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,1,1,8,ssd,256.0
+94990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,gigabyte,intel,12,12,16,ssd,512.0
+94990,64 bit windows 11 operating system,16.1,-1.0,-1.0,-1.0,hp,amd,1,1,8,ssd,512.0
+59990,64 bit windows 10 operating system,15.6,4.5,1197.0,151.0,msi,intel,9,9,8,ssd,512.0
+22990,chrome operating system,11.6,4.0,1853.0,287.0,asus,intel,1,1,4,ssd,512.0
+42550,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,11,11,8,ssd,256.0
+29990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,infinix,intel,10,10,8,ssd,256.0
+85499,64 bit windows 11 operating system,15.6,3.5,4.0,1.0,acer,intel,12,12,8,ssd,512.0
+67990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,dell,amd,1,1,16,ssd,512.0
+152124,64 bit windows 11 operating system,16.0,4.6,49.0,3.0,lenovo,intel,11,11,16,ssd,1000.0
+89990,64 bit windows 11 operating system,14.0,-1.0,-1.0,-1.0,lg,intel,12,12,8,ssd,512.0
+206490,64 bit windows 10 operating system,15.6,4.3,22.0,3.0,dell,intel,10,10,16,ssd,1000.0
+28490,64 bit chrome operating system,11.6,3.6,153.0,22.0,lenovo,intel,1,1,4,ssd,1000.0
+45126,64 bit windows 10 operating system,14.0,4.0,1371.0,177.0,dell,intel,8,8,8,hdd,1000.0
+239759,64 bit windows 10 operating system,13.3,-1.0,-1.0,-1.0,hp,intel,10,10,16,ssd,512.0
+144990,64 bit windows 10 operating system,15.6,4.4,9.0,3.0,asus,intel,11,11,16,ssd,1000.0
+65990,64 bit windows 10 operating system,15.6,4.3,76.0,7.0,asus,intel,10,10,8,ssd,512.0
+72990,windows 11 operating system,14.0,-1.0,-1.0,-1.0,asus,amd,10,10,16,ssd,512.0
+66490,64 bit windows 10 operating system,14.0,4.4,293.0,39.0,dell,amd,1,1,8,ssd,512.0
+43090,64 bit windows 11 operating system,35.0,4.2,33.0,7.0,dell,intel,11,11,4,hdd ssd,1000.0
+43490,windows 10 operating system,15.6,-1.0,-1.0,-1.0,dell,amd,3rd,3rd,8,ssd,256.0
+181890,windows 11 operating system,13.3,-1.0,-1.0,-1.0,lenovo,intel,12,12,16,ssd,1000.0
+33490,windows 11 operating system,15.6,3.6,22.0,4.0,lenovo,intel,10,10,8,ssd,256.0
+47130,64 bit windows 10 operating system,15.6,4.0,566.0,61.0,acer,intel,11,11,8,hdd,1000.0
+39999,dos operating system,15.6,4.0,52.0,8.0,hp,intel,11,11,8,ssd,512.0
+76990,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,asus,amd,4,4,8,ssd,1000.0
+99900,64 bit windows 11 operating system,14.0,4.5,28.0,3.0,dell,intel,11,11,16,ssd,512.0
+160990,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,msi,intel,10,10,16,hdd ssd,1000.0
+24990,64 bit windows 11 operating system,11.6,-1.0,-1.0,-1.0,asus,intel,1,1,4,hdd ssd,1000.0
+68290,windows 11 operating system,15.6,4.1,8.0,0.0,lenovo,intel,11,11,16,ssd,512.0
+36000,dos operating system,15.6,-1.0,-1.0,-1.0,lenovo,intel,11,11,4,hdd,1000.0
+68990,64 bit windows 10 operating system,15.6,1.6,23.0,4.0,dell,intel,5,5,8,hdd,1000.0
+105890,64 bit windows 11 operating system,14.0,4.8,4.0,0.0,dell,intel,12,12,16,ssd,512.0
+54990,64 bit windows 10 operating system,14.0,4.4,2298.0,307.0,asus,intel,8,8,8,ssd,512.0
+66666,windows 10 operating system,13.3,-1.0,-1.0,-1.0,hp,intel,11,11,8,ssd,512.0
+72990,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,asus,amd,1,1,8,ssd,512.0
+57990,64 bit windows 10 operating system,15.6,4.2,116.0,16.0,lenovo,amd,1,1,8,ssd,512.0
+187990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+66490,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,512.0
+54450,64 bit windows 10 operating system,15.6,4.1,1235.0,159.0,msi,intel,10,10,8,hdd,1000.0
+63308,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,512.0
+107990,windows 11 operating system,15.6,4.0,17.0,4.0,asus,amd,1,1,16,ssd,1000.0
+44990,windows 10 operating system,15.6,4.2,4443.0,518.0,redmibook,intel,11,11,8,ssd,512.0
+76999,windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,amd,1,1,8,ssd,512.0
+64821,64 bit windows 10 operating system,15.6,3.3,4.0,0.0,lenovo,intel,8,8,8,hdd,2000.0
+244801,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,lenovo,intel,8,8,16,ssd,512.0
+163990,64 bit windows 10 operating system,13.3,3.3,3.0,1.0,hp,intel,10,10,16,ssd,512.0
+68990,64 bit windows 11 operating system,15.6,4.1,187.0,16.0,dell,intel,11,11,16,ssd,512.0
+105990,64 bit windows 10 operating system,14.0,4.7,86.0,14.0,lenovo,intel,11,11,16,ssd,512.0
+35891,windows 11 operating system,14.0,-1.0,-1.0,-1.0,acer,intel,1,1,4,ssd,256.0
+161990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+76990,64 bit windows 10 operating system,15.6,4.4,295.0,71.0,dell,intel,7,7,8,hdd,1000.0
+52490,64 bit windows 8 operating system,15.6,3.8,78.0,17.0,lenovo,intel,4,4,8,hdd,1000.0
+59490,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,8,ssd,512.0
+101299,64 bit windows 11 operating system,17.0,-1.0,-1.0,-1.0,lg,intel,12,12,8,ssd,512.0
+158000,64 bit windows 10 operating system,16.1,-1.0,-1.0,-1.0,hp,intel,11,11,16,ssd,1000.0
+66990,64 bit windows 10 operating system,15.6,4.5,1667.0,232.0,msi,intel,9,9,8,ssd,512.0
+55190,64 bit windows 11 operating system,15.6,4.0,3.0,0.0,dell,intel,11,11,8,ssd,512.0
+189990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,1000.0
+62890,64 bit windows 10 operating system,14.0,3.8,84.0,13.0,vaio,intel,8,8,8,ssd,512.0
+24800,64 bit windows 11 operating system,15.6,4.4,12.0,3.0,acer,intel,1,1,4,ssd,256.0
+23990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,ultimus,intel,1,1,4,ssd,256.0
+80590,64 bit windows 10 operating system,14.0,4.6,21.0,3.0,msi,intel,11,11,8,ssd,512.0
+63490,64 bit windows 11 operating system,15.6,4.1,70.0,7.0,hp,amd,1,1,16,ssd,512.0
+73990,64 bit windows 10 operating system,15.6,4.4,38.0,6.0,dell,intel,10,10,16,ssd,512.0
+44990,windows 11 operating system,14.0,4.4,21.0,2.0,asus,intel,10,10,8,ssd,512.0
+59990,64 bit windows 10 operating system,15.6,4.0,121.0,27.0,acer,intel,8,8,8,hdd,1000.0
+39690,64 bit windows 10 operating system,14.96,4.3,4.0,0.0,dell,intel,10,10,8,ssd,256.0
+65990,windows 11 operating system,16.0,-1.0,-1.0,-1.0,dell,intel,12,12,8,ssd,512.0
+149990,64 bit windows 11 operating system,15.6,4.0,11.0,0.0,dell,intel,12,12,16,ssd,1000.0
+138550,windows 10 operating system,12.0,-1.0,-1.0,-1.0,lenovo,intel,10,10,16,ssd,512.0
+64990,64 bit windows 10 operating system,15.6,4.5,5145.0,564.0,asus,intel,10,10,8,ssd,512.0
+27990,64 bit chrome operating system,14.0,3.8,26.0,3.0,hp,intel,1,1,4,ssd,512.0
+231400,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,lenovo,intel,9,9,16,ssd,1000.0
+65200,64 bit windows 11 operating system,15.6,4.8,4.0,0.0,acer,intel,12,12,16,ssd,512.0
+39643,windows 10 operating system,15.6,3.9,47.0,4.0,hp,intel,10,10,4,hdd,1000.0
+34990,64 bit windows 10 operating system,14.0,4.5,79.0,10.0,asus,intel,11,11,4,ssd,256.0
+155411,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,lenovo,intel,10,10,16,hdd ssd,512.0
+20990,64 bit windows 10 operating system,11.6,3.9,199.0,20.0,asus,intel,1,1,4,hdd ssd,512.0
+43500,64 bit windows 11 operating system,15.6,4.0,4.0,0.0,hp,intel,11,11,8,ssd,512.0
+56990,64 bit windows 10 operating system,15.6,4.0,21.0,5.0,lenovo,intel,8,8,4,hdd,1000.0
+35500,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,1,1,4,ssd,256.0
+36600,windows 11 operating system,15.6,4.7,3.0,0.0,hp,amd,1,1,8,hdd,256.0
+40499,64 bit windows 10 operating system,15.6,4.3,274.0,42.0,hp,amd,1,1,8,ssd,512.0
+56900,64 bit windows 11 operating system,14.0,4.1,27.0,2.0,hp,amd,1,1,16,ssd,512.0
+179999,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,lenovo,amd,1,1,32,ssd,1000.0
+32990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,infinix,intel,10,10,8,ssd,512.0
+79258,64 bit windows 10 operating system,15.6,4.0,163.0,58.0,acer,intel,8,8,8,hdd,1000.0
+69890,64 bit windows 10 operating system,15.6,4.2,6.0,0.0,dell,intel,10,10,8,ssd,512.0
+132790,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,10,10,8,ssd,512.0
+88990,64 bit windows 10 operating system,15.6,-1.0,-1.0,-1.0,asus,intel,11,11,16,ssd,512.0
+85990,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,8,8,8,ssd,512.0
+93990,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,10,10,8,hdd,1000.0
+174527,64 bit windows 10 operating system,13.3,-1.0,-1.0,-1.0,lenovo,intel,10,10,16,ssd,512.0
+127000,64 bit windows 10 operating system,13.3,5.0,2.0,1.0,hp,intel,10,10,8,ssd,512.0
+174250,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,lenovo,intel,10,10,16,ssd,512.0
+57090,64 bit windows 10 operating system,15.6,4.4,2952.0,364.0,acer,intel,9,9,8,ssd,512.0
+50490,64 bit windows 10 operating system,15.6,4.3,569.0,53.0,hp,amd,1,1,8,ssd,512.0
+67990,64 bit windows 10 operating system,14.0,4.4,994.0,172.0,asus,intel,8,8,8,hdd ssd,1000.0
+165990,64 bit windows 10 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,10,10,16,ssd,1000.0
+82990,windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,amd,1,1,16,ssd,512.0
+81998,64 bit windows 10 operating system,14.0,4.0,15.0,3.0,acer,intel,8,8,8,ssd,256.0
+187990,64 bit windows 11 operating system,15.6,3.7,6.0,1.0,asus,amd,1,1,16,ssd,1000.0
+68180,64 bit windows 11 operating system,16.0,-1.0,-1.0,-1.0,asus,amd,1,1,16,ssd,512.0
+45990,64 bit windows 11 operating system,14.0,4.4,3189.0,430.0,msi,amd,1,1,8,ssd,512.0
+88990,64 bit windows 11 operating system,15.6,4.7,3.0,0.0,asus,amd,1,1,16,ssd,512.0
+66890,64 bit windows 11 operating system,15.6,4.1,41.0,2.0,hp,intel,11,11,8,ssd,512.0
+47990,64 bit windows 11 operating system,14.0,4.0,94.0,20.0,nokia,intel,11,11,8,ssd,512.0
+19990,windows 11 operating system,14.1,-1.0,-1.0,-1.0,ultimus,intel,1,1,4,ssd,128.0
+16990,chrome operating system,11.6,3.5,1386.0,164.0,lenovo,intel,1,1,4,ssd,128.0
+419990,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,msi,intel,12,12,32,ssd,2000.0
+76990,windows 11 operating system,14.0,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+27990,windows 11 operating system,15.6,3.8,40.0,3.0,hp,amd,1,1,8,ssd,256.0
+41990,64 bit windows 10 operating system,15.6,4.0,706.0,142.0,vaio,amd,1,1,8,ssd,512.0
+99999,windows 11 operating system,15.6,-1.0,-1.0,-1.0,hp,intel,12,12,16,ssd,512.0
+73490,64 bit windows 11 operating system,15.6,3.6,57.0,11.0,msi,intel,12,12,8,ssd,512.0
+51990,64 bit windows 10 operating system,14.0,3.8,318.0,59.0,avita,intel,10,10,16,ssd,1000.0
+205000,64 bit windows 11 operating system,17.3,-1.0,-1.0,-1.0,msi,intel,12,12,16,ssd,1000.0
+67500,64 bit windows 11 operating system,15.6,-1.0,-1.0,-1.0,dell,intel,11,11,16,ssd,512.0
+21990,chrome operating system,14.0,3.8,1135.0,167.0,asus,intel,1,1,4,ssd,512.0
+37990,64 bit windows 10 operating system,15.6,4.0,1907.0,227.0,asus,intel,10,10,8,hdd,1000.0
+54990,windows 11 operating system,14.0,4.5,22.0,5.0,asus,amd,1,1,8,ssd,512.0
+40990,64 bit windows 11 operating system,15.6,4.0,801.0,104.0,dell,intel,11,11,8,hdd ssd,1000.0
+24540,windows 11 operating system,14.0,-1.0,-1.0,-1.0,asus,intel,1,1,4,ssd,256.0
